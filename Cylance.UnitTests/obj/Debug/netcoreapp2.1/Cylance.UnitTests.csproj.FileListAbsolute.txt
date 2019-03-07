@@ -1,0 +1,17 @@
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\bin\Debug\netcoreapp2.1\Cylance.UnitTests.deps.json
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\bin\Debug\netcoreapp2.1\Cylance.UnitTests.runtimeconfig.json
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\bin\Debug\netcoreapp2.1\Cylance.UnitTests.runtimeconfig.dev.json
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\bin\Debug\netcoreapp2.1\Cylance.UnitTests.dll
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\bin\Debug\netcoreapp2.1\Cylance.UnitTests.pdb
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\bin\Debug\netcoreapp2.1\CylanceGUID.dll
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\bin\Debug\netcoreapp2.1\CylanceGUID.pdb
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\obj\Debug\netcoreapp2.1\Cylance.UnitTests.csprojAssemblyReference.cache
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\obj\Debug\netcoreapp2.1\Cylance.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\obj\Debug\netcoreapp2.1\Cylance.UnitTests.AssemblyInfoInputs.cache
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\obj\Debug\netcoreapp2.1\Cylance.UnitTests.AssemblyInfo.cs
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\obj\Debug\netcoreapp2.1\Cylance.UnitTests.csproj.CopyComplete
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\obj\Debug\netcoreapp2.1\Cylance.UnitTests.dll
+C:\Users\KG034051\source\repos\CylanceGUID\Cylance.UnitTests\obj\Debug\netcoreapp2.1\Cylance.UnitTests.pdb

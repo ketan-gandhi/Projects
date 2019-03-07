@@ -1,0 +1,13 @@
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceClient\bin\Debug\netcoreapp2.1\CylanceClient.deps.json
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceClient\bin\Debug\netcoreapp2.1\CylanceClient.runtimeconfig.json
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceClient\bin\Debug\netcoreapp2.1\CylanceClient.runtimeconfig.dev.json
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceClient\bin\Debug\netcoreapp2.1\CylanceClient.dll
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceClient\bin\Debug\netcoreapp2.1\CylanceClient.pdb
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceClient\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceClient\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceClient\obj\Debug\netcoreapp2.1\CylanceClient.csproj.CoreCompileInputs.cache
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceClient\obj\Debug\netcoreapp2.1\CylanceClient.AssemblyInfoInputs.cache
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceClient\obj\Debug\netcoreapp2.1\CylanceClient.AssemblyInfo.cs
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceClient\obj\Debug\netcoreapp2.1\CylanceClient.csproj.CopyComplete
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceClient\obj\Debug\netcoreapp2.1\CylanceClient.dll
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceClient\obj\Debug\netcoreapp2.1\CylanceClient.pdb

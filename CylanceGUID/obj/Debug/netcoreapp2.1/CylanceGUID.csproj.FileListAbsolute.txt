@@ -1,0 +1,14 @@
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\bin\Debug\netcoreapp2.1\CylanceGUID.deps.json
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\bin\Debug\netcoreapp2.1\CylanceGUID.runtimeconfig.json
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\bin\Debug\netcoreapp2.1\CylanceGUID.runtimeconfig.dev.json
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\bin\Debug\netcoreapp2.1\CylanceGUID.dll
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\bin\Debug\netcoreapp2.1\CylanceGUID.pdb
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\obj\Debug\netcoreapp2.1\CylanceGUID.csprojAssemblyReference.cache
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\obj\Debug\netcoreapp2.1\CylanceGUID.csproj.CoreCompileInputs.cache
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\obj\Debug\netcoreapp2.1\CylanceGUID.RazorAssemblyInfo.cache
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\obj\Debug\netcoreapp2.1\CylanceGUID.RazorAssemblyInfo.cs
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\obj\Debug\netcoreapp2.1\CylanceGUID.AssemblyInfoInputs.cache
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\obj\Debug\netcoreapp2.1\CylanceGUID.AssemblyInfo.cs
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\obj\Debug\netcoreapp2.1\CylanceGUID.RazorTargetAssemblyInfo.cache
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\obj\Debug\netcoreapp2.1\CylanceGUID.dll
+C:\Users\KG034051\source\repos\CylanceGUID\CylanceGUID\obj\Debug\netcoreapp2.1\CylanceGUID.pdb
